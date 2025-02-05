@@ -1,6 +1,9 @@
 ### Olá, eu sou Eugênio Márcio! 👋 <br>
 <a height="80" src="https://professoreugenio.com/img/logo.png"></a>
 
+<i class="devicon-python-plain"></i> Python
+<i class="devicon-markdown-original"></i> Markdown
+<i class="devicon-github-original"></i> GitHub
 
 Sou apaixonado por tecnologia, design e dados. Combinando minha experiência em design gráfico e programação web, crio soluções criativas e funcionais. Também sou especialista em Excel (básico e avançado) e Power BI, transformando dados em insights valiosos.
 
