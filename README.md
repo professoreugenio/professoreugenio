@@ -1,9 +1,8 @@
-Olá, eu sou Eugênio Márcio! 👋
+Olá, eu sou Eugênio Márcio! 👋 <br>
 <a href="https://professoreugenio.com">
-<img src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)" >
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=professoreugenio&show_icons=true&theme=cobalt)"
 </a>
 🛠️ Habilidades
 **Programming Languages**
 
-<img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />|<img alt="JS" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">
-|--|--|--|--|--|
+
