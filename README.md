@@ -1,6 +1,6 @@
 ### Olá, eu sou Eugênio Márcio! 👋 <br>
 <a height="80" src="https://professoreugenio.com/img/logo.png"></a>
-
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
 <i class="devicon-python-plain"></i> Python
 <i class="devicon-markdown-original"></i> Markdown
 <i class="devicon-github-original"></i> GitHub
