@@ -1,5 +1,6 @@
 <h3 align="left">Olá, eu sou Eugênio Márcio! 👋 </h3>
-
+###
+Sou apaixonado por tecnologia, design e dados. Combinando minha experiência em design gráfico e programação web, crio soluções criativas e funcionais. Também sou especialista em Excel (básico e avançado) e Power BI, transformando dados em insights valiosos.
 ###
 
 <div>
@@ -33,16 +34,6 @@
 <i class="devicon-python-plain"></i> Python
 <i class="devicon-markdown-original"></i> Markdown
 <i class="devicon-github-original"></i> GitHub
-
-Sou apaixonado por tecnologia, design e dados. Combinando minha experiência em design gráfico e programação web, crio soluções criativas e funcionais. Também sou especialista em Excel (básico e avançado) e Power BI, transformando dados em insights valiosos.
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=professoreugenio&show_icons=true&theme=cobalt)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=professoreugenio&layout=compact)
-
-<div style="display: inline_block"><br>
- 
-
-  </div>
 
 ## 
 
