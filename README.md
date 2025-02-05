@@ -31,3 +31,11 @@ Sou apaixonado por tecnologia, design e dados. Combinando minha experiência em 
   <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
+## Table of Contents
+- [Awesome PHP](#awesome-php)
+
+### Composer Repositories
+*Composer Repositories.*
+
+* [Firegento](https://packages.firegento.com/) - Magento Module Composer Repository.
