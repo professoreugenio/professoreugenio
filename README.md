@@ -9,7 +9,7 @@ Sou apaixonado por tecnologia, design e dados. Combinando minha experiência em 
 </div>
 
 <br clear="both">
-<img src="https://raw.githubusercontent.com/professoreugenio/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/professoreugenio/professoreugenio/output/snake.svg" alt="Snake animation" />
 ###
 
 <a height="80" src="https://professoreugenio.com/img/logo.png"></a>
@@ -18,7 +18,11 @@ Sou apaixonado por tecnologia, design e dados. Combinando minha experiência em 
 <i class="devicon-markdown-original"></i> Markdown
 <i class="devicon-github-original"></i> GitHub
 
-## 
+### PROFESSOR
+-DESIGNER GRÁFICO
+-POWER BI
+-EXCEL AVANÇADO
+-PLANILHAS COM DASHBOARD
 
 <div> 
   <a href="https://www.youtube.com/@professoreugenio?sub_confirmation=1" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
