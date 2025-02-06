@@ -9,7 +9,7 @@ Sou apaixonado por tecnologia, design e dados. Combinando minha experiência em 
 </div>
 
 <br clear="both">
-<img src="https://raw.githubusercontent.com/professoreugenio/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/professoreugenio/professoreugenio/output/snake.svg" alt="Snake animation" />
 ###
 
 <a height="80" src="https://professoreugenio.com/img/logo.png"></a>
